@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-12T17:04:09.681Z</updated>
+  <updated>2019-11-12T09:36:01.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,23 +18,58 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/13/hello-world/"/>
-    <id>http://yoursite.com/2019/11/13/hello-world/</id>
-    <published>2019-11-12T17:04:09.681Z</published>
-    <updated>2019-11-12T17:04:09.681Z</updated>
+    <link href="http://yoursite.com/2019/11/13/Jay%20Chou/"/>
+    <id>http://yoursite.com/2019/11/13/Jay%20Chou/</id>
+    <published>2019-11-12T17:21:50.725Z</published>
+    <updated>2019-11-12T09:36:01.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>I’m Jrue！welcome to my blog!!!</p><p>欢迎来到我的blog世界！ </p><h2 id="周杰伦-Jay-Chou"><a href="#周杰伦-Jay-Chou" class="headerlink" title="周杰伦(Jay Chou)"></a>周杰伦(Jay Chou)</h2><h3 id="Create-a-new-album"><a href="#Create-a-new-album" class="headerlink" title="Create a new album"></a>Create a new album</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> album = <span class="keyword">new</span>(Album)</span><br><span class="line">album.name = 不爱我就拉到</span><br></pre></td></tr></table></figure><h3 id="Begin-Tour-Concert"><a href="#Begin-Tour-Concert" class="headerlink" title="Begin Tour Concert"></a>Begin Tour Concert</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> concert = <span class="keyword">new</span>(Concert) </span><br><span class="line"> concert.name = <span class="string">"嘉年华"</span></span><br><span class="line"> concert.location = <span class="string">"深圳"</span></span><br><span class="line"> concert.showTime = <span class="string">"now"</span></span><br></pre></td></tr></table></figure><h3 id="Sell-Concert-ticket"><a href="#Sell-Concert-ticket" class="headerlink" title="Sell Concert ticket"></a>Sell Concert ticket</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">concert.ticket = &#123;</span><br><span class="line">    <span class="number">380</span>,</span><br><span class="line">    <span class="number">580</span>,</span><br><span class="line">    <span class="number">980</span>,</span><br><span class="line">    <span class="number">1080</span>,</span><br><span class="line">    <span class="number">1280</span>,</span><br><span class="line">    <span class="number">1680</span>,</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="Congratulation"><a href="#Congratulation" class="headerlink" title="Congratulation"></a>Congratulation</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">congratulate!!!</span><br><span class="line">    you got a free ticket!!!</span><br><span class="line">        please check <span class="keyword">with</span> me!!!</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;I’m Jrue！welcome to my blog!!!&lt;/p&gt;
+&lt;p&gt;欢迎来到我的blog世界！ &lt;/p&gt;
+&lt;h2 id=&quot;周杰伦-Jay-Chou&quot;&gt;&lt;a href=&quot;#周杰伦-Jay-Chou&quot; class=&quot;headerlink&quot; title=&quot;周杰伦(Jay 
       
     
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>公司注册流程</title>
+    <link href="http://yoursite.com/2019/11/12/%E5%85%AC%E5%8F%B8%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/11/12/%E5%85%AC%E5%8F%B8%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B/</id>
+    <published>2019-11-12T08:34:52.000Z</published>
+    <updated>2019-11-12T09:36:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="资料准备"><a href="#资料准备" class="headerlink" title="资料准备"></a>资料准备</h3><ol><li>公司的名称及备选名称（建议字号3-4字最好，两个字重名几率高一些）</li><li>法人、监事、全体股东、的身份证信息</li><li>法人、监事、全体股东银行电子U盾</li><li>注册资金以及全体股东占股比例</li><li>注册地址（要具体到某个路多少号几单元几零几室）</li><li>申报住所信息</li><li>公司经营范围</li></ol><a id="more"></a> <h3 id="网上核名"><a href="#网上核名" class="headerlink" title="网上核名"></a>网上核名</h3><p>至少准备2-3个公司名称 向深圳工商全程电子化登记平台申请公司名称登记并签名提交后,一般1-2个工作日会得到名称预先核准通知书。</p><h3 id="企业设立"><a href="#企业设立" class="headerlink" title="企业设立"></a>企业设立</h3><p>在网上核名通过并取得名称预先核准通知书就可以进行企业设立登记,设立登记的环节比较重要，因为关系公司能不能成功取得注册，所以说要谨慎填写并核对资料，特别是经营范围和住所申报这一块。（如果资料没问题的情况下并签名提交将在1-3个工作日左右完成工商注册）</p><h3 id="领取执照"><a href="#领取执照" class="headerlink" title="领取执照"></a>领取执照</h3><ol><li>邮寄领取</li><li>窗口领取</li></ol><h3 id="刻章"><a href="#刻章" class="headerlink" title="刻章"></a>刻章</h3><p>领取公司印章后到公司归属的税务局办理税务登记（公司成立后第二个月开始，每个月都需要建立账本以及申报税务，不管是否有收入都需要做账并报税，否则会罚款！！！）。深圳地区小规模企业每个季度有九万的增值税免税额度。</p><h3 id="银行开户"><a href="#银行开户" class="headerlink" title="银行开户"></a>银行开户</h3><p>带上公章、财务章、法人私章、营业执照、法人身份证、租房合同、公司章程，到银行办理开户即可。费用每家银行都不一样，请咨询各银行为准,开户完成之后，要和银行签订扣税协议。</p><h3 id="定开设税务登记账户、可开通可不开立社保账户"><a href="#定开设税务登记账户、可开通可不开立社保账户" class="headerlink" title="定开设税务登记账户、可开通可不开立社保账户"></a>定开设税务登记账户、可开通可不开立社保账户</h3><ol><li>开设税务登记账户 公司设立登记批准后，必须建立企业账簿，每个月申报以及进行季度报税和每年的企业年报提交。否则会被工商局列入异常名录。</li><li>开社保账户。 当企业在当地工商局注册成功一个月之后，就可以去当地政府的社保局开通企业社保缴纳账户。社保缴纳方式可以是到社保中心的经办机构办事窗口办理，也可以开通网上办理。 最后，至此整个企业登记设立流程走完，企业也可以正式开始进入正常运作阶段。 此时可能你还有的疑问： 公司怎么才能不用交税？<ul><li>客户打钱给你尽量不要打到公司对公账户。</li><li>不开发票，会计适当将收入[账簿]做到9万元以下可以少交点税。（深圳有一个季度9万元的免税政策）</li></ul></li><li>由会计人员建账报税，把公司的账做成亏本状态就不用交税。（公司都亏本了就不用交税给国家了嘛） 公司刚成立没有会计，为了节省成本建议您可以找我们帮你代理做账报税。不用单独请一位会计员工，因为创业初期要降低成本！</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;资料准备&quot;&gt;&lt;a href=&quot;#资料准备&quot; class=&quot;headerlink&quot; title=&quot;资料准备&quot;&gt;&lt;/a&gt;资料准备&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;公司的名称及备选名称（建议字号3-4字最好，两个字重名几率高一些）&lt;/li&gt;
+&lt;li&gt;法人、监事、全体股东、的身份证信息&lt;/li&gt;
+&lt;li&gt;法人、监事、全体股东银行电子U盾&lt;/li&gt;
+&lt;li&gt;注册资金以及全体股东占股比例&lt;/li&gt;
+&lt;li&gt;注册地址（要具体到某个路多少号几单元几零几室）&lt;/li&gt;
+&lt;li&gt;申报住所信息&lt;/li&gt;
+&lt;li&gt;公司经营范围&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="公司相关" scheme="http://yoursite.com/categories/%E5%85%AC%E5%8F%B8%E7%9B%B8%E5%85%B3/"/>
+    
+    
+      <category term="公司" scheme="http://yoursite.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    
+      <category term="注册" scheme="http://yoursite.com/tags/%E6%B3%A8%E5%86%8C/"/>
     
   </entry>
   
